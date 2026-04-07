@@ -25,20 +25,20 @@ All visuals generate SQL queries dynamically from MySQL,
 Ensures real-time data analysis
 
 📈 Dashboard Pages
-1. Sales Overview
+1. Sales Overview:
 Revenue by Category
 Sales Trend Over Time
 Revenue by City
 KPI Summary
-2. Customer Analysis
+2. Customer Analysis:
 Total, New, and Repeat Customers
 Top Customers by Revenue
 Customer Distribution by Location
 
 🚀 Key Learnings
 
-Difference between Import Mode and DirectQuery
-Importance of star schema for performance
-DAX optimization for query efficiency
-Time intelligence using a Date Table
+Difference between Import Mode and DirectQuery.
+Importance of star schema for performance.
+DAX optimization for query efficiency.
+Time intelligence using a Date Table.
 Performance tuning in DirectQuery environments
